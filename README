@@ -1,0 +1,4 @@
+Web app I created as part of my learning process with javascript, materialize CSS and Jquery.
+
+Functions include adding, deleting and clearing tasks.
+Uses local storage to keep tasks in place after leaving session
